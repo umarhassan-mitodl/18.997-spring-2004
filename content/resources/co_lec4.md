@@ -4,6 +4,8 @@ description: Summary of Lecture 4.
 file: /courses/18-997-topics-in-combinatorial-optimization-spring-2004/85c4c00fad27f38cdaf3e75df46f4dcd_co_lec4.pdf
 file_size: 80960
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

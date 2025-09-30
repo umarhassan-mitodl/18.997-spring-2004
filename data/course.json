@@ -36,6 +36,7 @@
     "website": "18-997-topics-in-combinatorial-optimization-spring-2004"
   },
   "course_title": "Topics in Combinatorial Optimization",
+  "hide_download": true,
   "course_description": "In this graduate-level course, we will be covering advanced topics in combinatorial optimization. We will start with non-bipartite matchings and cover many results extending the fundamental results of matchings, flows and matroids. The emphasis is on the derivation of purely combinatorial results, including min-max relations, and not so much on the corresponding algorithmic questions of how to find such objects. The intended audience consists of Ph.D. students interested in optimization, combinatorics, or combinatorial algorithms.\n",
   "department_numbers": [
     "18"
@@ -46,6 +47,7 @@
     "content": "737d57a1-160a-062d-b979-edcb8116edfd",
     "website": "18-997-topics-in-combinatorial-optimization-spring-2004"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

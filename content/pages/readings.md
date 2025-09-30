@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ Bessy, S. "Stabilite et decomposition en circuits d'un digraphe." In _Dissertati
 
 Cunningham, W. H. "Matching, Matroid, and Extensions." _Mathematical Programming_ B91 (2002): 515-542. \[Lectures 16 and 17\]
 
-Lovász, L. "{{% resource_link "b19d7785-c1a1-4318-b7c5-7c2459f0142f" "The Membership Problem in Jump Systems" %}}." _J. Comb. Theory_ (B) 70: 45-66. \[Lectures 16 and 17\]
+Lovász, L. "[The Membership Problem in Jump Systems](http://www.sciencedirect.com/science/article/pii/S0095895697917445?via%3Dihub)." _J. Comb. Theory_ (B) 70: 45-66. \[Lectures 16 and 17\]
 
 Frank, A. "Packing Paths, Circuits, and Cuts." In _Paths, Flows and VLSI-Layout._ Edited by B. Korte, L. Lovász, H. J. Proemel, and A. Schrijver. New York, NY: Springer-Verlag, 1990. \[Lectures 22 and 23\]
 
