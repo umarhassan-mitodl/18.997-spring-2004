@@ -4,8 +4,6 @@ description: Summary of Lecture 22.
 file: /courses/18-997-topics-in-combinatorial-optimization-spring-2004/f8301c675d90c516212c4754a1bd6e48_co_lec22.pdf
 file_size: 116482
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
